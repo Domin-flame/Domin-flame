@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning : 
   software engineering 
   web development
-  database
-  Data scraping with Python
+  database (SQL, PostgreSQL)
+  Software design and modelling practices
+ 
 - 📫 How to reach me: 
   email: dominicbediguile@gmail.com
   X: @DBediguile
