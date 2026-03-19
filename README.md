@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on some cool stuff
 - 🌱 I’m currently learning : 
   software engineering 
-  web development
+  object-oriented analysis and design
   database (SQL, PostgreSQL)
-  Software design and modelling practices
+  Network security
  
 - 📫 How to reach me: 
   email: dominicbediguile@gmail.com
